@@ -1,6 +1,6 @@
 {
   "name": "max-sub-arr-sum",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Implementaion of Khadan's algorithm",
   "main": "index.js",
   "repository": {

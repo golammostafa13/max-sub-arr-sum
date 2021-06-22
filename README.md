@@ -12,7 +12,7 @@ It's basis on khadan's algorithm which provides us calculate maximum sub-array s
 
 ....
 
-import { maxSubArrSum } from 'max-sub-arr-sum';
+const {maxSubArrSum} = require('max-sub-arr-sum');
 
 let result = maxSubArrSum([-2, -3, 4, -1, -2, 1, 5, -3]);
 
