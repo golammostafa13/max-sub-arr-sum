@@ -6,13 +6,13 @@ It's basis on khadan's algorithm which provides us calculate maximum sub-array s
 
 # Installation
 
-`npm i maxSubArrSum --save`
+`npm i max-sub-arr-sum --save`
 
 # How to use?
 
 ....
 
-import { maxSubArrSum } from 'maxSubArrSum';
+import { maxSubArrSum } from 'max-sub-arr-sum';
 
 let result = maxSubArrSum([-2, -3, 4, -1, -2, 1, 5, -3]);
 
