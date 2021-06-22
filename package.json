@@ -1,0 +1,24 @@
+{
+  "name": "max-sub-arr-sum",
+  "version": "1.0.0",
+  "description": "Implementaion of Khadan's algorithm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golammostafa13/max-sub-arr-sum.git"
+  },
+  "keywords": [
+    "maximum",
+    "sub-array",
+    "sum",
+    "Khadan's",
+    "algorithm",
+    "maximum-subset-sum"
+  ],
+  "author": "golammostafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golammostafa13/max-sub-arr-sum/issues"
+  },
+  "homepage": "https://github.com/golammostafa13/max-sub-arr-sum#readme"
+}
